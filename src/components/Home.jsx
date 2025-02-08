@@ -109,7 +109,8 @@ function Home() {
           transition={{ duration: 1, delay: 0.4 }}
         >
           <motion.a
-            href="/about"
+            href="./about"
+            target="_blank"
             className="px-6 py-3 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-full text-white font-semibold hover:from-indigo-600 hover:to-blue-500 transition duration-300 shadow-lg"
             whileHover={{ scale: 1.05 }}
           >
