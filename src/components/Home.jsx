@@ -124,7 +124,7 @@ function Home() {
           {/* View Resume Button */}
           <motion.button whileHover={{ scale: 1.05 }}>
           <motion.a
-            href="https://drive.google.com/file/d/16DqiHpeNzZ0QsorCQ1UEu8wSbJ-XJxLa/view?usp=drive_link"
+            href="https://drive.google.com/file/d/112FqSPJfwwOiyGAqr1LNQ2ppQWxh21JG/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 bg-gradient-to-r from-green-500 to-teal-600 rounded-full text-white font-semibold hover:from-teal-600 hover:to-green-500 transition duration-300 shadow-lg"

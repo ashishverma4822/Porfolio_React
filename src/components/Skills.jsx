@@ -12,8 +12,9 @@ import {
   FaNodeJs,
   FaNetworkWired,
   FaCogs,
+  FaJava,
 } from "react-icons/fa";
-import { SiTailwindcss, SiMysql, SiMongodb, SiWindows } from "react-icons/si";
+import { SiTailwindcss, SiMysql, SiMongodb, SiWindows, SiSpring } from "react-icons/si";
 
 function Skills() {
   const skills = [
@@ -32,6 +33,9 @@ function Skills() {
     { icon: <SiWindows />, title: "Operating Systems", description: "Process management, memory & OS concepts." },
     { icon: <FaCogs />, title: "OOPs", description: "Object-oriented programming principles & design." },
     { icon: <FaDatabase />, title: "DBMS", description: "Efficient data modeling and database management." },
+    { icon: <FaJava />, title: "Java", description: "Robust backend development and enterprise applications." },
+    { icon: <SiSpring />, title: "Spring Boot", description: "Rapid development with production-ready Spring applications." },
+    { icon: <SiSpring />, title: "Spring", description: "Comprehensive framework for enterprise Java applications." }
   ];
 
   return (

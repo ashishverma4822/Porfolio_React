@@ -10,7 +10,7 @@ const platforms = [
     name: "LeetCode",
     url: "https://leetcode.com/vashishk0602/",
     color: "#FFA500",
-    rating: "1814",
+    rating: "1877",
     solved: "Loading...",
   },
   {
@@ -24,7 +24,7 @@ const platforms = [
     name: "CodeChef",
     url: "https://www.codechef.com/users/vashishk0602",
     color: "#8A2BE2",
-    rating: "1615",
+    rating: "1629",
     solved: "200+",
   },
 ];
